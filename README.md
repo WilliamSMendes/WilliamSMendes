@@ -83,6 +83,8 @@
 
 - :heavy_check_mark: **Essential Python Programming - Udemy**
 
+-  :heavy_check_mark: **Python 101 for Data Science - IBM**
+
 - :heavy_check_mark: **Machine Learning and Data Science A to Z - Udemy**
 
 - :heavy_check_mark: **Behind The Code Marathon - IBM**
