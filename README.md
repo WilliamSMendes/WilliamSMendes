@@ -94,7 +94,7 @@
 ## My Goal
 
 <p>
-  I'm studying Industrial Automation and intend to pursue a career in data analysis and artificial intelligence and I am looking for my first Junior job / internship, i have a lot of dedication and willingness to learn!
+  I'm studying Industrial Automation and intend to pursue a career in data analysis and machine learning and I am looking for my first Junior job / internship, i have a lot of dedication and willingness to learn!
 </p>
 
 </details>
