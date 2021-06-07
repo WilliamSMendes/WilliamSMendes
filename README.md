@@ -77,7 +77,12 @@
 <details>
   <summary>📃 Resume</summary>
 
+## My Goal
 
+<p>
+  I'm studying Industrial Automation and intend to pursue a career in data analysis and machine learning and I am looking for my first Junior job / internship, i have a lot of dedication and willingness to learn!
+</p>
+  
 ## Education
 
 - 📖 **Industrial Automation**\
@@ -97,11 +102,6 @@
 
 - :heavy_check_mark: **Programming Logic- Digital Innovation One**
 
-## My Goal
-
-<p>
-  I'm studying Industrial Automation and intend to pursue a career in data analysis and machine learning and I am looking for my first Junior job / internship, i have a lot of dedication and willingness to learn!
-</p>
 
 </details>
 
