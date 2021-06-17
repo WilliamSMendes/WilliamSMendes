@@ -51,9 +51,6 @@
   📫 How to reach me: <a href='mailto:william.qgdi@gmail.com'>william.qgdi@gmail.com</a>
 </p>
 
-<!-- <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p> -->
 
 <details>
   <summary>:pushpin: Projects</summary>
