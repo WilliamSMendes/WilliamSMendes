@@ -64,7 +64,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=NLP_binary-classifier-tweets&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=wikipedia_text-to-speech&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=netflix_data_analysis&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=multiclass-classification_students-profile&show_icons=true&count_private=true&theme=radical" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=multiclass_students_classifier&show_icons=true&count_private=true&theme=radical" width="350"></a>
   
 
 
