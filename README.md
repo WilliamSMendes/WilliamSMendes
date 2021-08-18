@@ -82,7 +82,7 @@
 ## My Goal
 
 <p>
-  I'm studying Industrial Automation and intend to pursue a career in data analysis and machine learning and I am looking for my first Junior job / internship, i have a lot of dedication and willingness to learn!
+  I am looking for my first job / internship, i have a lot of dedication and willingness to learn!
 </p>
   
 ## Education
@@ -94,15 +94,17 @@
 ## Certifications
 
 
-- :heavy_check_mark: **Essential Python Programming - Udemy**
+- :heavy_check_mark: **Essential Python Programming - 06/2020**
 
--  :heavy_check_mark: **Python 101 for Data Science - IBM**
+-  :heavy_check_mark: **Python 101 for Data Science IBM - 05/2021**
 
-- :heavy_check_mark: **Machine Learning and Data Science A to Z - Udemy**
+- :heavy_check_mark: **Machine Learning and Data Science A to Z - 03/2021**
 
-- :heavy_check_mark: **Behind The Code Marathon - IBM**
+- :heavy_check_mark: **Behind The Code Marathon IBM - 09/2020**
 
-- :heavy_check_mark: **Programming Logic- Digital Innovation One**
+- :heavy_check_mark: **Programming Logic- 01/2020**
+  
+- :heavy_check_mark: **PostgreSQL- 08/2021**
 
 
 </details>
