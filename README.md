@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Studying data science and automation, working from Campinas, Brazil.
+  Studying programming and automation, working from Campinas, Brazil.
 </p>
 
 
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <!--<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
@@ -79,10 +79,10 @@
 <details>
   <summary>📃 Resume</summary>
 
-## My Goal
+## Professional experience
 
 <p>
-  I am looking for my first job / internship, i have a lot of dedication and willingness to learn!
+  Intern Developer at Ecomilhas.
 </p>
   
 ## Education
