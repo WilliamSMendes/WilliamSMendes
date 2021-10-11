@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Studying programming and automation, working from Campinas, Brazil.
+  Studying data science and automation, working from Campinas, Brazil.
 </p>
 
 
