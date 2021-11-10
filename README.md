@@ -82,7 +82,7 @@
 ## Professional experience
 
 <p>
-  Intern Developer at Ecomilhas.
+  Data Science Intern at Kumulus Cloud & Data.
 </p>
   
 ## Education
