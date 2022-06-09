@@ -93,7 +93,12 @@
 
 ## Certifications
 
-
+- :heavy_check_mark: **Microsoft Certified: Azure Fundamentals - 03/2022**
+  
+- :heavy_check_mark: **Microsoft Certified: Azure Data Fundamentals - 02/2022**
+  
+- :heavy_check_mark: **Microsoft Certified: Azure AI Fundamentals - 11/2021**
+  
 - :heavy_check_mark: **Essential Python Programming - 06/2020**
 
 -  :heavy_check_mark: **Python 101 for Data Science IBM - 05/2021**
