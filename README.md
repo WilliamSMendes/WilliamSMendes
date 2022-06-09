@@ -101,15 +101,9 @@
   
 - :heavy_check_mark: **Essential Python Programming - 06/2020**
 
--  :heavy_check_mark: **Python 101 for Data Science IBM - 05/2021**
-
 - :heavy_check_mark: **Machine Learning and Data Science A to Z - 03/2021**
 
 - :heavy_check_mark: **Behind The Code Marathon IBM - 09/2020**
-
-- :heavy_check_mark: **Programming Logic- 01/2020**
-  
-- :heavy_check_mark: **PostgreSQL- 08/2021**
 
 
 </details>
