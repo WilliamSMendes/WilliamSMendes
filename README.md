@@ -82,7 +82,7 @@
 ## Professional experience
 
 <p>
-  Data Science Intern at Kumulus Cloud & Data.
+  Junior Data Scientist at Kumulus Cloud & Data.
 </p>
   
 ## Education
