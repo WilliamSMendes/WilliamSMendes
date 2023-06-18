@@ -60,6 +60,7 @@
   <summary>:pushpin: Projects</summary>
 
 <p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=violence-weapon_detection&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=computer-vision_audio-control&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=storytelling_amazon_firepots&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=tweets_NLP_Keras_classifier&show_icons=true&count_private=true&theme=radical" width="350"></a>
