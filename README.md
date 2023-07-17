@@ -94,6 +94,8 @@
 
 ## Certifications
 
+- :heavy_check_mark: **Microsoft Certified: Azure AI Engineer - 07/2023**
+
 - :heavy_check_mark: **Microsoft Certified: Azure Fundamentals - 03/2022**
   
 - :heavy_check_mark: **Microsoft Certified: Azure Data Fundamentals - 02/2022**
