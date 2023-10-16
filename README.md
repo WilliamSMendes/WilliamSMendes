@@ -83,7 +83,8 @@
 ## Professional experience
 
 <p>
-  Junior Data Scientist at Kumulus Cloud & Data.
+  * Junior Data Scientist at Kumulus Cloud & Data (2021-2023)
+  * Data Science Analyst at Ab Inbev (2023 - current role)
 </p>
   
 ## Education
