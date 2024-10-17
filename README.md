@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm William :chart_with_upwards_trend:U+1F468
+  Hi there 👋 I'm William :chart_with_upwards_trend::U+1F468:
 </h1>
 
 <p align='center'>
