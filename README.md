@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Working with Data Science - from Campinas-SP (Brazil)
+  Working with Data Science - Campinas-SP (Brazil)
 </p>
 
 
@@ -69,15 +69,15 @@
 
 ## Professional experience
 
+  - Data Scientist at Ab Inbev (2023 - current role)
   - Junior Data Scientist at Kumulus Cloud & Data (2021-2023)
-  - Data Science Analyst at Ab Inbev (2023 - current role)
-
+  
   
 ## Education
 
 - 📖 **Bachelor's Industrial Automation Technologyst**\
 📆 2021 - 2023\
-📍 **IFSP -Federal Institute of Education, Science and Technology of São Paulo** - Piracicaba, Brazil
+📍 **IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo** - Piracicaba, Brazil
 
 ## Certifications
 
@@ -89,11 +89,11 @@
   
 - :heavy_check_mark: **Microsoft Certified: Azure AI Fundamentals - 11/2021**
   
-- :heavy_check_mark: **Essential Python Programming - 06/2020**
-
-- :heavy_check_mark: **Machine Learning and Data Science A to Z - 03/2021**
-
-- :heavy_check_mark: **Behind The Code Marathon IBM - 09/2020**
+      - :heavy_check_mark: **Essential Python Programming - 06/2020**
+      
+      - :heavy_check_mark: **Machine Learning and Data Science A to Z - 03/2021**
+      
+      - :heavy_check_mark: **Behind The Code Marathon IBM - 09/2020**
 
 
 </details>
