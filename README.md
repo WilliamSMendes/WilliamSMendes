@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Working with data science and automation, from Campinas-Brazil.
+  Working with Data Science - from Campinas-SP (Brazil)
 </p>
 
 
