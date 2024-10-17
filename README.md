@@ -6,22 +6,17 @@
   Working with Data Science - Campinas-SP (Brazil)
 </p>
 
-
-
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/williamsm01010101/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/laosdata">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"; />
-    
-  
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
 </p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=WilliamSMendes&show_icons=true&count_private=true&theme=radical" width="350"></a>
-
 </p>
 
 <p align='center'>
@@ -37,27 +32,33 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-
 <p align='center'>
   📫 How to reach me: <a href='mailto:william.qgdi@gmail.com'>william.qgdi@gmail.com</a>
 </p>
 
-
 <details>
   <summary>:pushpin: Projects</summary>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=violence-weapon_detection&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=llm-multimodal&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=prompt-generator&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=EnergyResourceAgent&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=computer-vision_audio-control&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=storytelling_amazon_firepots&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=tweets_NLP_Keras_classifier&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=NLP_binary-classifier-tweets&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=multiclass_students_classifier&show_icons=true&count_private=true&theme=radical" width="350"></a>
-
-</p>
+  <table align='center'>
+    <tr>
+      <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=violence-weapon_detection&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
+      <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=llm-multimodal&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=prompt-generator&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
+      <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=EnergyResourceAgent&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=computer-vision_audio-control&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
+      <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=storytelling_amazon_firepots&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=tweets_NLP_Keras_classifier&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
+      <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=NLP_binary-classifier-tweets&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=multiclass_students_classifier&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
+    </tr>
+  </table>
 </details>
 
 <details>
@@ -68,7 +69,6 @@
   - Data Scientist at Ab Inbev (2023 - current role)
   - Junior Data Scientist at Kumulus Cloud & Data (2021-2023)
   
-  
 ## Education
 
 - 📖 **Bachelor's Industrial Automation Technologyst**\
@@ -78,15 +78,8 @@
 ## Certifications
 
 - :heavy_check_mark: **Microsoft Certified: Azure AI Engineer - 07/2023**
-
 - :heavy_check_mark: **Microsoft Certified: Azure Fundamentals - 03/2022**
-  
 - :heavy_check_mark: **Microsoft Certified: Azure Data Fundamentals - 02/2022**
-  
 - :heavy_check_mark: **Microsoft Certified: Azure AI Fundamentals - 11/2021**
 
-
 </details>
-
-
-
