@@ -48,18 +48,14 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=violence-weapon_detection&show_icons=true&count_private=true&theme=radical" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=llm-multimodal&show_icons=true&count_private=true&theme=radical" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=prompt-generator&show_icons=true&count_private=true&theme=radical" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=EnergyResourceAgent&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=computer-vision_audio-control&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=storytelling_amazon_firepots&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=tweets_NLP_Keras_classifier&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=titanic-LightAutoML&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=whatsbot-messenger&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=NLP_binary-classifier-tweets&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=wikipedia_text-to-speech&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=audio_book&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=netflix_data_analysis&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=multiclass_students_classifier&show_icons=true&count_private=true&theme=radical" width="350"></a>
-  
-
 
 </p>
 </details>
@@ -88,12 +84,6 @@
 - :heavy_check_mark: **Microsoft Certified: Azure Data Fundamentals - 02/2022**
   
 - :heavy_check_mark: **Microsoft Certified: Azure AI Fundamentals - 11/2021**
-  
-      - :heavy_check_mark: **Essential Python Programming - 06/2020**
-      
-      - :heavy_check_mark: **Machine Learning and Data Science A to Z - 03/2021**
-      
-      - :heavy_check_mark: **Behind The Code Marathon IBM - 09/2020**
 
 
 </details>
