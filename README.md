@@ -23,6 +23,12 @@
 
 I come from the scientific community and have been working with Data Science since 2021 with experience in Computer Vision, Time Series Forecasting and LLM solutions. I have helped create diverse business solutions for a wide range of industries including retail, data consulting and marketing. I'm used to accelerated and dynamic rhythm of startup to project deliveries.
 
+## Contact
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:william.qgdi@gmail.com'>william.qgdi@gmail.com</a>
+</p>
+
 ## Tech Stack
 
 <p align='center'>
@@ -89,12 +95,3 @@ When I'm not diving deep into data science, I love to unwind with a few of my fa
 
 These hobbies help me stay creative, motivated, and balanced in both my personal and professional life.
 
-## Contact
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:william.qgdi@gmail.com'>william.qgdi@gmail.com</a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=WilliamSMendes&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"></a>
-</p>
