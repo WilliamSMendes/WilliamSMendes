@@ -21,7 +21,7 @@
 
 ## About Me
 
-I come from the scientific community and have been working with Data Science since 2021 with experience in Computer Vision, Time Series Forecasting and LLM solutions. I have helped create diverse business solutions for a wide range of industries including retail, data consulting and marketing. I'm used to accelerated and dynamic rhythm of startup to project deliveries.
+Coming from a biomedical background, I have worked in Data Science since 2021, building AI-driven solutions in Computer Vision, Time Series Forecasting, Generative AI, and LLMs. I specialize in automating and optimizing business processes across healthcare, retail, energy, finance, and customer support.
 
 ## Contact
 
@@ -69,7 +69,8 @@ I come from the scientific community and have been working with Data Science sin
 
 ## Professional Experience
 
-- **Data Scientist at Ab Inbev (2023 - current role)**
+- ***Data Scientist at Acerto (2024 - now)**
+- **Data Scientist at Ab Inbev (2023 - 2024)**
 - **Junior Data Scientist at Kumulus Cloud & Data (2021-2023)**
 
 ## Education
@@ -84,14 +85,4 @@ I come from the scientific community and have been working with Data Science sin
 - :heavy_check_mark: **Microsoft Certified: Azure Fundamentals - 03/2022**
 - :heavy_check_mark: **Microsoft Certified: Azure Data Fundamentals - 02/2022**
 - :heavy_check_mark: **Microsoft Certified: Azure AI Fundamentals - 11/2021**
-
-## Hobbies and Interests
-
-When I'm not diving deep into data science, I love to unwind with a few of my favorite hobbies:
-
-- **Video Games:** Whether it's exploring vast open worlds, engaging in thrilling combat, or solving intricate puzzles, video games are my go-to for relaxation and fun.
-- **Series and Movies:** I'm an avid fan of both series and movies, always on the lookout for the next great story to get lost in. From sci-fi epics to gripping dramas, I enjoy a wide range of genres.
-- **Martial Arts:** As a complete nerd 😂, I find balance through practicing martial arts. It's a great way to stay fit, focused, and disciplined while enjoying the physical and mental challenges it presents.
-
-These hobbies help me stay creative, motivated, and balanced in both my personal and professional life.
 
