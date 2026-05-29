@@ -15,9 +15,6 @@
   </a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=WilliamSMendes&show_icons=true&count_private=true&theme=radical" width="350"></a>
-</p>
 
 ## About Me
 
@@ -44,30 +41,6 @@ Coming from a biomedical background, I have worked in Data Science since 2021, b
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
-
-## Featured Projects
-
-<table align='center'>
-  <tr>
-    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=violence-weapon_detection&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
-    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=llm-multimodal&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
-  </tr>
-  <tr>
-    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=prompt-generator&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
-    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=EnergyResourceAgent&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
-  </tr>
-  <tr>
-    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=computer-vision_audio-control&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
-    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=storytelling_amazon_firepots&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
-  </tr>
-  <tr>
-    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=tweets_NLP_Keras_classifier&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
-    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=NLP_binary-classifier-tweets&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
-  </tr>
-  <tr>
-    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSMendes&repo=multiclass_students_classifier&show_icons=true&count_private=true&theme=radical" width="350"></a></td>
-  </tr>
-</table>
 
 ## Professional Experience
 
