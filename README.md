@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Working with Data Science - Campinas-SP (Brazil)
+  Mid-Level Data Scientist & AI Engineer | Campinas-SP (Brazil)
 </p>
 
 <p align='center'>
@@ -21,7 +21,7 @@
 
 ## About Me
 
-Coming from a biomedical background, I have worked in Data Science since 2021, building AI-driven solutions in Computer Vision, Time Series Forecasting, Generative AI, and LLMs. I specialize in automating and optimizing business processes across healthcare, retail, energy, finance, and customer support.
+Coming from a biomedical background, I have worked in Data Science since 2021, building AI-driven solutions in Computer Vision, Time Series Forecasting, Generative AI, and LLMs. I am passionate about innovation and automation, specializing in optimizing business processes across healthcare, retail, energy, finance, and customer support. Currently, I am focused on building scalable, multi-agent AI systems and robust predictive models, continuously pushing my expertise to drive high-impact data strategies globally.
 
 ## Contact
 
@@ -33,14 +33,16 @@ Coming from a biomedical background, I have worked in Data Science since 2021, b
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ## Featured Projects
@@ -69,14 +71,23 @@ Coming from a biomedical background, I have worked in Data Science since 2021, b
 
 ## Professional Experience
 
-- ***Data Scientist at Acerto (2024 - now)**
-- **Data Scientist at Ab Inbev (2023 - 2024)**
-- **Junior Data Scientist at Kumulus Cloud & Data (2021-2023)**
+- 💼 **Mid-Level Data Scientist at Acerto (2024 - Present)**
+  - Architected and managed a multi-agent negotiation chatbot using LangChain and GPT, directly contributing to company revenue.
+  - Developed and optimized debt ranking and conversion lift models to enhance business intelligence strategies.
+
+- 📊 **Data Scientist at AB InBev (2023 - 2024)**
+  - Developed a large-scale forecasting model for the European market leveraging PySpark and Databricks.
+
+- 📈 **Junior Data Scientist at Kumulus Cloud & Data (2021 - 2023)**
 
 ## Education
 
-- 📖 **Bachelor's Industrial Automation Technologyst**\
-📆 2021 - 2023\
+- 🤖 **Postgraduate in Machine Learning Engineering**<br>
+📆 Expected Jul 2026<br>
+📍 **FIAP**
+
+- ⚙️ **Bachelor's Degree in Industrial Automation Technology**<br>
+📆 2021 - 2023<br>
 📍 **IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo** - Piracicaba, Brazil
 
 ## Certifications
@@ -85,4 +96,3 @@ Coming from a biomedical background, I have worked in Data Science since 2021, b
 - :heavy_check_mark: **Microsoft Certified: Azure Fundamentals - 03/2022**
 - :heavy_check_mark: **Microsoft Certified: Azure Data Fundamentals - 02/2022**
 - :heavy_check_mark: **Microsoft Certified: Azure AI Fundamentals - 11/2021**
-
