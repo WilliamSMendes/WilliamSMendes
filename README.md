@@ -44,14 +44,14 @@ Coming from a biomedical background, I have worked in Data Science since 2021, b
 
 ## Professional Experience
 
-- 💼 **Mid-Level Data Scientist at Acerto (2024 - Present)**
+- 💼 **Data Scientist at Acerto (2024 - Present)**
   - Architected and managed a multi-agent negotiation chatbot using LangChain and GPT, directly contributing to company revenue.
   - Developed and optimized debt ranking and conversion lift models to enhance business intelligence strategies.
 
 - 📊 **Data Scientist at AB InBev (2023 - 2024)**
   - Developed a large-scale forecasting model for the European market leveraging PySpark and Databricks.
 
-- 📈 **Junior Data Scientist at Kumulus Cloud & Data (2021 - 2023)**
+- 📈 **Data Scientist at Kumulus Cloud & Data (2021 - 2023)**
 
 ## Education
 
