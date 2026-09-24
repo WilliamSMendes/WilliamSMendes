@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Mid-Level Data Scientist & AI Engineer | Campinas-SP (Brazil)
+  Machine Learning Engineer | Ranking & Recommendation | Production ML | Campinas-SP (Brazil)
 </p>
 
 <p align='center'>
@@ -15,57 +15,69 @@
   </a>
 </p>
 
-
 ## About Me
 
-Coming from a biomedical background, I have worked in Data Science since 2021, building AI-driven solutions in Computer Vision, Time Series Forecasting, Generative AI, and LLMs. I am passionate about innovation and automation, specializing in optimizing business processes across healthcare, retail, energy, finance, and customer support. Currently, I am focused on building scalable, multi-agent AI systems and robust predictive models, continuously pushing my expertise to drive high-impact data strategies globally.
+I build ML systems that run in production and move business metrics. My XGBoost ranking model scores ~4M items a day and lifted revenue by 26%. My LLM systems autonomously resolve 89% of ~60K monthly support tickets. I work across the full lifecycle: feature pipelines, training, champion/challenger A/B testing, and model serving.
 
-## Contact
+## Featured Projects
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:william.qgdi@gmail.com'>william.qgdi@gmail.com</a>
-</p>
+- 🎯 **[Contextual bandit ranking service](https://github.com/JabuS2/datathon-7mlet-grupo-68)** (FIAP capstone, lead contributor)<br>
+  Built the model service for an offer recommendation platform. LinUCB, Thompson sampling and a rule-based baseline are served through FastAPI (`/rank`, `/update`). Online learning state lives in Redis with per-policy distributed locks. Shadow and active policies support atomic promotion and rollback, with an MLflow registry and Datadog observability. In a paired multi-seed simulation, LinUCB reached **93.8% of oracle reward**, against 90.2% for the baseline.
+
+- ☁️ **[Serverless data pipeline on AWS](https://github.com/WilliamSMendes/tech_challenge_2_mlet)**<br>
+  Daily pipeline provisioned with Terraform: EventBridge, Lambda, S3 (Parquet with Hive partitions), Glue with Polars, and Athena. Deployed through GitHub Actions CI/CD.
+
+- ✈️ **[Flight delay prediction](https://github.com/WilliamSMendes/tech_challenge_3_mlet)**<br>
+  Classification (XGBoost, LightGBM, Random Forest) with SHAP interpretability, plus KMeans segmentation into operational personas.
 
 ## Tech Stack
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ## Professional Experience
 
-- 💼 **Data Scientist at Acerto (2024 - Present)**
-  - Architected and managed a multi-agent negotiation chatbot using LangChain and GPT, directly contributing to company revenue.
-  - Developed and optimized debt ranking and conversion lift models to enhance business intelligence strategies.
+- 💼 **Data Scientist, Machine Learning at Acerto (2024 to present)**
+  - Designed an XGBoost ranking model (choice probability × projected revenue, with position bias correction) that scores ~4M debts daily. Validated through champion/challenger A/B testing, it **lifted revenue 26%**.
+  - Built and own a multi-agent LLM negotiation system (LangGraph, GCP) on WhatsApp, responsible for **2% of total company revenue**.
+  - Built an LLM support system on Zendesk that **autonomously resolves 89%** of ~60K monthly tickets.
 
-- 📊 **Data Scientist at AB InBev (2023 - 2024)**
-  - Developed a large-scale forecasting model for the European market leveraging PySpark and Databricks.
+- 📊 **Data Scientist at AB InBev (2023 to 2024)**
+  - Built a PySpark/Databricks forecasting architecture for the European beer market at **92% accuracy**, validated by A/B test and generating multi-million savings.
 
-- 📈 **Data Scientist at Kumulus Cloud & Data (2021 - 2023)**
+- 📈 **Data Scientist and Consultant at Kumulus Cloud & Data (2021 to 2023)**
+  - Deployed a computer vision system (YOLO/PyTorch, Azure) for energy tower inspection, **saving BRL 100K/month**.
 
 ## Education
 
-- 🤖 **Postgraduate in Machine Learning Engineering**<br>
-📆 Expected Jul 2026<br>
-📍 **FIAP**
+- 🤖 **Postgraduate in Machine Learning Engineering**, FIAP
+- ⚙️ **Technologist in Industrial Automation**, IFSP (Instituto Federal de São Paulo)
 
-- ⚙️ **Bachelor's Degree in Industrial Automation Technology**<br>
-📆 2021 - 2023<br>
-📍 **IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo** - Piracicaba, Brazil
+## Publication
+
+- 📄 Co-author, *"An open-access WebApp for Inverse Laplace Transform analysis of TD-NMR signals,"* Magnetic Resonance, 2026. [DOI 10.5194/mr-7-39-2026](https://doi.org/10.5194/mr-7-39-2026)
 
 ## Certifications
 
-- :heavy_check_mark: **Microsoft Certified: Azure AI Engineer - 07/2023**
-- :heavy_check_mark: **Microsoft Certified: Azure Fundamentals - 03/2022**
-- :heavy_check_mark: **Microsoft Certified: Azure Data Fundamentals - 02/2022**
-- :heavy_check_mark: **Microsoft Certified: Azure AI Fundamentals - 11/2021**
+- :heavy_check_mark: **Microsoft Certified: Azure AI Engineer Associate**
+- :heavy_check_mark: **Microsoft Certified: Azure Fundamentals, Azure Data Fundamentals, Azure AI Fundamentals**
+
+## Contact
+
+<p align='center'>
+  📫 <a href='mailto:william.qgdi@gmail.com'>william.qgdi@gmail.com</a>
+</p>
